@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mefgner
+- 👀 I’m interested in python developing
+- 🌱 I’m currently learning python backend developing
+- 📫 my telegram address is @Mefgner or https://t.me/Mefgner
