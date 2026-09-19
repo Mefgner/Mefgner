@@ -16,6 +16,13 @@ Lately, that has meant working with local AI: getting models running, connecting
 
 `Python` · `Sentence Transformers` · `Qdrant` · `Docker`
 
+### Small tools, everyday fixes
+
+I also build small utilities for everyday things I'd like to work a little better:
+
+- **[Smart Refresh Rate](https://github.com/Mefgner/Smart-Refresh-Rate)** — switches display refresh rates automatically when a laptop moves between battery and AC power.
+- **[Sennheiser Control](https://github.com/Mefgner/sennheiser-control)** — a Windows tray app for controlling my Sennheiser headphones, including EQ settings and battery status.
+
 ### Tools I work with
 
 ![Python](https://img.shields.io/badge/Python-24343b?style=flat&logo=python&logoColor=86d9c7)
