@@ -22,6 +22,8 @@ I also build small utilities for everyday things I'd like to work a little bette
 
 - **[Smart Refresh Rate](https://github.com/Mefgner/Smart-Refresh-Rate)** — switches display refresh rates automatically when a laptop moves between battery and AC power.
 - **[Sennheiser Control](https://github.com/Mefgner/sennheiser-control)** — a Windows tray app for controlling my Sennheiser headphones, including EQ settings and battery status.
+- **[RapidThemer](https://github.com/Mefgner/RapidThemer)** — one-click light/dark theme toggle from the system tray — portable PowerShell app, no install, no admin.
+- **[HideDotFolders](https://github.com/Mefgner/HideDotFolders)** — lightweight Windows service that hides dotfiles in your profile root (non-recursive, with allowlist).
 
 ### Tools I work with
 
