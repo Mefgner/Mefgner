@@ -21,6 +21,8 @@ I also build small utilities for everyday things I'd like to work a little bette
 - **[RapidThemer](https://github.com/Mefgner/RapidThemer)** — one-click light/dark theme toggle from the system tray — portable PowerShell app, no install, no admin.
 - **[HideDotFolders](https://github.com/Mefgner/HideDotFolders)** — lightweight Windows service that hides dotfiles in your profile root (non-recursive, with allowlist).
 
+### Also
+
 **[EasyRAG](https://github.com/Mefgner/EasyRAG)** — a small project where I explore how RAG works in practice: turn documents into embeddings, retrieve relevant passages, and use them to answer questions with a local model.
 
 `Python` · `Sentence Transformers` · `Qdrant` · `Docker`
